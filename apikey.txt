@@ -1,0 +1,4 @@
+
+http://api.openweathermap.org/data/2.5/forecast?id=694423&APPID=bb9e734a12e40f82ee8c9a2e37bddd8e
+
+api.openweathermap.org/data/2.5/weather?q=Sevastopol,UA
